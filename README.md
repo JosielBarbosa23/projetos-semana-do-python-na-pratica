@@ -1,0 +1,1 @@
+# projetos-semana-do-python-na-pratica
